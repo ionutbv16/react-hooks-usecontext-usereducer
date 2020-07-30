@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test BooksPage Component should render without error while mocking useContext 1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;
